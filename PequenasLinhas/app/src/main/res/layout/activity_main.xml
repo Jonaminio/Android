@@ -62,8 +62,9 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="110dp"
         android:layout_marginTop="2dp"
-        android:text="Voce está em:"
+        android:hint="@string/vc_est_em"
         android:textColor="#59595A"
+        android:textColorHint="#59595A"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

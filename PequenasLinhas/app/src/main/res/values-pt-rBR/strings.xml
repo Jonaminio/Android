@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Pequenas Linhas</string>
+    <string name="vc_est_em">Você Está Em:</string>
+    <string name="produtos">Produtos</string>
 </resources>

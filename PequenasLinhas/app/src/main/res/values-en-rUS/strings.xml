@@ -2,5 +2,7 @@
 
 <resources>
     <string name="app_name">Little Lines</string>
+    <string name="vc_est_em">Your Location</string>
+    <string name="produtos">Shop</string>
 
 </resources>
