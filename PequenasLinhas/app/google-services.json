@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184332973344",
+    "project_id": "pequenaslinhas-13e14",
+    "storage_bucket": "pequenaslinhas-13e14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184332973344:android:bbf3f932b91ac036c81345",
+        "android_client_info": {
+          "package_name": "com.example.pequenaslinhas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184332973344-b9ln05b1u6vi0nv6bu2mifdkf96cstb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4q_ii_fkvsnRc17lx3jX1XrOj7NO8Hwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184332973344-b9ln05b1u6vi0nv6bu2mifdkf96cstb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
