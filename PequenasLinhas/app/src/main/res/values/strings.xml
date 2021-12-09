@@ -2,4 +2,6 @@
     <string name="app_name">PequenasLinhas</string>
     <string name="vc_est_em">Você Está Em:</string>
     <string name="produtos">Produtos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
